@@ -1,5 +1,13 @@
 ## Music Player
 
-- HTML, CSS and Javascript
+### HTML, CSS and Javascript
 
-Still need to add javascript, coming soon
+Actions:
+- Play song
+- Pause Song
+- Change previous and next song
+- Animation spinning image cover
+
+### 👁️[ View Online](https://thiagowfer.github.io/music-player/)
+
+![Print](./images/print-music-player.png)

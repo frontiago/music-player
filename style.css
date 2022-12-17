@@ -86,9 +86,9 @@ body {
     margin: 0 20px;
 }
 
-.action-btn.big {
+.action-btn-big {
     color: #cdc2d0;
-    cursor: pointer;
+    font-size: 35px;
 }
 
 .action-btn:focus {
