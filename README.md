@@ -8,6 +8,6 @@ Actions:
 - Change previous and next song
 - Animation spinning image cover
 
-### 👁️[ View Online](https://thiagowfer.github.io/music-player/)
+### 👁️[ View Online](https://frontiago.github.io/music-player/)
 
 ![Print](./images/print-music-player.png)
